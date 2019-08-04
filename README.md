@@ -11,7 +11,7 @@ Using  { } brackets will created a class if brackets don't connect the class bec
 **What does the word 'string' mean?**
 Charecters 
 
-**What key work (abreviation) is used to create a function?**
+**What key work (abbreviation) is used to create a function?**
 'func'
 
 **What symbol means 'is of type'?**
